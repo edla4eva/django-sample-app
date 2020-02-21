@@ -6,6 +6,9 @@ Contributors:
 * edla4eva
 * Efosa-Jeffrey
 
+Other future contributors:
+*jebangs
+
 
 django-sample-app is a **minimal** sample application to start developing your web project immediately on [Django framework](https://www.djangoproject.com/). 
 

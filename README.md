@@ -1,7 +1,10 @@
 # django-sample-app
+
+This application is still in development.
+
 Contributors:
--edla4eva
--Efosa-Jeffrey
+* edla4eva
+* Efosa-Jeffrey
 
 
 django-sample-app is a **minimal** sample application to start developing your web project immediately on [Django framework](https://www.djangoproject.com/). 

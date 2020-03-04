@@ -9,6 +9,8 @@ Contributors:
 Other future contributors:
 * jebangs
 
+TODO: See https://github.com/edla4eva/farmmeet
+
 
 django-sample-app is a **minimal** sample application to start developing your web project immediately on [Django framework](https://www.djangoproject.com/). 
 

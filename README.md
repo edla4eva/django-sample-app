@@ -1,5 +1,17 @@
 # django-sample-app
 
+This application is still in development.
+
+Contributors:
+* edla4eva
+* Efosa-Jeffrey
+
+Other future contributors:
+* jebangs
+
+TODO: See https://github.com/edla4eva/farmmeet
+
+
 django-sample-app is a **minimal** sample application to start developing your web project immediately on [Django framework](https://www.djangoproject.com/). 
 
 The sample application comes with:
